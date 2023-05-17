@@ -9,6 +9,9 @@
 # expo
 **/.expo/*
 
+**/node_modules
+**/.firebase
+
 # next.js
 **/.next/*
 /out/
